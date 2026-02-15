@@ -32,3 +32,4 @@ I'm a security-focused developer currently pursuing a degree in **Information Se
 
 ### 📊 GitHub Activity
 ![Tikhon's GitHub stats](https://github-card-seven.vercel.app/api?username=tikhontt&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=tikhontt&layout=compact&theme=radical)
