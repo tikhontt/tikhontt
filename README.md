@@ -1,7 +1,7 @@
 # Hi there, I'm Tikhon! 👋
 
-### 🛡️ Cybersecurity Student & Android Developer
-I'm a security-focused developer currently pursuing a degree in **Information Security**. I enjoy building tools that solve real-world problems.
+### 🛡️ Cybersecurity Specialist | Android Developer
+I am a certified **Information Security Specialist** with a solid background in network protection and systems hardening. Currently enhancing my expertise through advanced studies in Automated Systems Security.
 ---
 
 ### 🛠️ Tech Stack & Skills
@@ -11,8 +11,8 @@ I'm a security-focused developer currently pursuing a degree in **Information Se
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D7?style=for-the-badge&logo=windows&logoColor=white)
 ![Network Admin](https://img.shields.io/badge/Network_Admin-00599C?style=for-the-badge&logo=cisco&logoColor=white)
-- **Security:** OSINT, Firewall (NGFW), Cryptographic protection, Burp Suite.
-- **Infrastructure:** Windows Server, DHCP/DNS setup, SQL.
+- **Web Security & Auditing:** Manual traffic interception, Web vulnerability research (OWASP Top 10), API security testing.
+- **Intelligence:** Advanced OSINT techniques, data reconnaissance, and digital footprint analysis.
 
 #### 💻 Programming & Tools
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
